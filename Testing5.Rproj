@@ -1,0 +1,4 @@
+pring ("This file was created within Rstudio")
+print("This file was created within Rstudio")
+pring ("And now it lives with Github")
+print("This file was created within Rstudio")
